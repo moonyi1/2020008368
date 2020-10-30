@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Cleaning is hard work.
-I'm allergic to dust.
-Perhaps everyone here is weak against dust.
-=======
-I met my friends while cleaning.
->>>>>>> sixth text file
+
